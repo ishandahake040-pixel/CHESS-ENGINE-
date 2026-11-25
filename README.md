@@ -69,7 +69,7 @@ The project aims to develop a functional chess engine capable of playing against
 | Minimax | AI decision-making |
 | Alpha-Beta Pruning | Search optimization |
 | Unit Testing | Functional correctness |
-| Git and GitHub | Version control and collaboration |
+| GitHub | Version control and collaboration |
 
 ## Expected Outcome
 
