@@ -96,3 +96,11 @@ Through this project, the developer will gain practical experience in:
 ## Project Significance
 
 This project demonstrates the application of C++ programming, algorithmic problem-solving, artificial intelligence and software engineering principles in developing a complete game engine. It provides practical experience in building a complex software system from the ground up.
+
+## Daily Basis Updates On Project 
+
+
+
+## Project Duration
+Project Start -> 25 November 2026
+Project End -> 
