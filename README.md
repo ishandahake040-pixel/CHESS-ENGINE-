@@ -102,5 +102,5 @@ This project demonstrates the application of C++ programming, algorithmic proble
 
 
 ## Project Duration
-Project Start -> 25 November 2026
-Project End -> 
+- Project Start -> 25 November 2026
+- Project End -> 
